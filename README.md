@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I'm a student from FJUT concentrated on ROS2 and OpenCV developing
 <!--
 **2500123/2500123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
